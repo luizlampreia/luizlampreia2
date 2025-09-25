@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou **o Luiz Lamperia**  
-# 👋 Olá, eu sou **Sejam bem Vindos!**  
+# 👋 **Sejam bem Vindos!**  
 
 ## 💡 Sobre mim
 - 🎓 Formado em **Bacharelado em Ciências e Tecnologia**  
