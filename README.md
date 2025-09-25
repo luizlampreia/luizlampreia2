@@ -23,4 +23,6 @@
 
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/luizlampreia)
+[![Site](https://img.shields.io/badge/-Meu%20Site-181717?logo=github&logoColor=white&style=flat)](https://luizlampreia.github.io)
+
 
