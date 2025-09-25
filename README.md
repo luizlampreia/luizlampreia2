@@ -13,7 +13,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=luizlampreia&show_icons=true&theme=dracula)
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luizlampreia&layout=compact&theme=dracula)
 
