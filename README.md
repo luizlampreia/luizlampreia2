@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou **o Luiz Lamperia**  
+# 👋 Olá, eu sou **o Luiz Lampreia**  
 # 👋 **Sejam bem Vindos!**  
 
 ## 💡 Sobre mim
-- 🎓 Formado em **Bacharelado em Ciências e Tecnologia**  
+- 🎓 **Bacharel em Ciências e Tecnologia**  
 - 📚 Pós-graduação em **Ciência de Dados e Inteligência Artificial**  
 - 💻 Apaixonado por programação, estatística e IA.  
 
