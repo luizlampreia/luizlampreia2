@@ -15,7 +15,7 @@
 ## 📊 Estatísticas do GitHub
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luizlampreia&layout=compact&theme=dracula)
 
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/SEU_LINKEDIN)
